@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+torch
+torchvision
+opencv-python-headless
+deepface
+tf-keras
+librosa
+scikit-learn
+numpy
+pillow
+scipy
